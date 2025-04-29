@@ -1,4 +1,4 @@
-# [Desaku - Desa Pagar Besi](https://batioh.github.io/desa/)
+# [DESA BATIOH](https://batioh.github.io/desa/)
 
 [Desaku](https://batioh.github.io/desa/) merupakan sebuah web profil sederhana yang dibuat untuk Desa Batioh, Banyuates, Sampang.
 
